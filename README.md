@@ -1,4 +1,4 @@
-# CrisisShield AI Response 🚨
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/afc541c8-8a91-42f1-82c8-933a941ff7aa" /># CrisisShield AI Response 🚨
 
 ## 🔥 Problem
 
@@ -17,7 +17,8 @@ CrisisShield is an AI-powered crisis management platform that detects incidents,
 
 ## 🌐 Live Demo
 
-https://https://lovable.dev/projects/4d0cbc51-cdde-48c2-ba2d-5eaf4441956a?magic_link=mc_bd7fc12a-5de7-49e4-9199-40105a4ba1df
+https://crisisshield.lovable.app
+
 
 ## 🛠️ Tech Stack
 
