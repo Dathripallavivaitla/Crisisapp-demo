@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/afc541c8-8a91-42f1-82c8-933a941ff7aa" /># CrisisShield AI Response 🚨
+# CrisisShield AI Response 🚨
 
 ## 🔥 Problem
 
